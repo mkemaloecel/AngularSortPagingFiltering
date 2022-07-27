@@ -9,7 +9,7 @@ import { MatTableDataSource } from '@angular/material/table';
  */
 @Component({
   selector: 'table-overview-example',
-  styleUrls: ['table-overview-example.css'],
+  styleUrls: ['table-overview-example.scss'],
   templateUrl: 'table-overview-example.html',
 })
 export class TableOverviewExample {
